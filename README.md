@@ -26,4 +26,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Shin080110)](https://solved.ac/Shin080110/)  
 
 # Mail
-  - shin@dev-shin.xyz
+  - ## shin@dev-shin.xyz
