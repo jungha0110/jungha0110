@@ -21,9 +21,9 @@
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin080110&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jungha0110&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Shin080110)](https://solved.ac/Shin080110/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungha0110)](https://solved.ac/jungha0110/)  
 
 # Mail
   - ## shin@dev-shin.xyz
